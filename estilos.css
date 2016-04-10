@@ -1,0 +1,18 @@
+/* CSS Document */
+
+body{
+	background-color:#A20002}
+	
+
+#contenedor{
+	width:1250px;
+	height:1400px;
+	margin:auto}	
+
+#video{
+	position: relative;
+	width: 453px;
+	height: 300px;
+	left: 56px;
+	top: -450px; 
+	background-color:#A6A6A6}
